@@ -4,6 +4,11 @@
 - 🔭 I’m currently working on:
   - Wanderlust!, a 2.5D platformer inspired by Rayman Origins/Legends and Klonoa 2: Lunatea's Veil developed in Unreal Engine 5
   - An online multiplayer puzzle game inspired by ChuChu Rocket!, developed in Godot 3
+ 
+- Past projects:
+  - Rossal's Website, a personal website developed with HTML5, CSS3, and JQuery
+  - Dreamcast Database, a website where you can find information about most releases for the Dreamcast video game console, developed with HTML5, CSS3, and JQuery, and using a public API
+  - AquaMarine, an FPS developed in UE5 for the February 2024 UVGD Game Jam
 
 - 📫 Reach me at **alexander.ross2558@gmail.com**
 
