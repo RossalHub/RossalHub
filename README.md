@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alexander Ross, known online as Rossal</h1>
-<h3 align="center">A computer science student from Canada</h3>
+<h1 align="left">Hi 👋, I'm Alexander Ross, known online as Rossal</h1>
+<h3 align="left">A computer science student from Canada</h3>
 
 - 🔭 I’m currently working on **multiple game projects, both alone and with friends.**
 
-- 📫 How to reach me **alexander.ross2558@gmail.com**
+- 📫 Reach me at **alexander.ross2558@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexander ross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander ross" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexanderross11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander ross" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rossal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rossal" height="30" width="40" /></a>
 </p>
 
