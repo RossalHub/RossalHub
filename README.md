@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
   - Wanderlust!, a 2.5D platformer inspired by Rayman Origins/Legends and Klonoa 2: Lunatea's Veil developed in Unreal Engine 5
-  - An online multiplayer puzzle game inspired by ChuChu Rocket!, developed in Godot 3
+  - An online multiplayer puzzle game inspired by ChuChu Rocket!, developed in Godot 4
  
 - Past projects:
   - Rossal's Website, a personal website developed with HTML5, CSS3, and JQuery
